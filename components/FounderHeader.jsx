@@ -10,7 +10,7 @@ export default function FounderHeader() {
 
             {/* TEXTO */}
             <div className="absolute inset-0 flex flex-col justify-center items-center text-center px-4 sm:px-6">
-                <h1 className="text-white text-4xl sm:text-5xl md:text-7xl font-extrabold animate-typewriter leading-tight">
+                <h1 className="text-white text-3xl sm:text-4xl md:text-6xl font-extrabold animate-typewriter leading-tight whitespace-normal  px-4">
                     La historia del fundador
                 </h1>
 
